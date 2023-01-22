@@ -4,9 +4,9 @@
 
 ## Documentation
 
-1. git clone this repository on Linux.
-2. put [deploy.sh](https://raw.githubusercontent.com/genhaiyu/jekyll-blog-routine-deploy-script/master/deploy.sh) in main directory, and execute.
-3. see [README](https://github.com/genhaiyu/jekyll-blog-routine-deploy-script/blob/master/README.md)
+1. Download this repository on Linux server.
+2. Put [deploy.sh](https://raw.githubusercontent.com/genhaiyu/jekyll-blog-routine-deploy-script/master/deploy.sh) in main directory, and execute.
+3. More details see [README](https://github.com/genhaiyu/jekyll-blog-routine-deploy-script/blob/master/README.md)
 
 
 ## License
