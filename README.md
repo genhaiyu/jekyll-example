@@ -1,11 +1,12 @@
-# A sample of building a Jekyll blog
+# A sample of building and release a Jekyll blog
 
-> Example of [jekyll-blog-routine-deploy-script](https://github.com/genhaiyu/jekyll-blog-routine-deploy-script) testing purpose
+> Example of [jekyll-blog-routine-deploy-script](https://github.com/genhaiyu/jekyll-blog-routine-deploy-script) testing purpose.
 
 ## Documentation
 
 1. Download this repository on Linux server.
 2. Put [deploy.sh](https://raw.githubusercontent.com/genhaiyu/jekyll-blog-routine-deploy-script/master/deploy.sh) in main directory, and execute.
+    * `chmod +x ./deploy.sh`
 3. More details see [README](https://github.com/genhaiyu/jekyll-blog-routine-deploy-script/blob/master/README.md)
 
 
