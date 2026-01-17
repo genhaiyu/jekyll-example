@@ -6,7 +6,6 @@ source "https://rubygems.org"
 # gem "github-pages", group: :jekyll_plugins
 
 gem "jekyll-seo-tag"
-gem "jekyll-sitemap"
 
 # https://github.com/jekyll/jekyll/issues/8523#issuecomment-751409319
 # When running locally, we run into the following error —
@@ -17,3 +16,12 @@ gem "webrick"
 # adding the following gems to support removal of "github-pages" dependency
 gem "jemoji"
 gem "kramdown-parser-gfm"
+
+
+gem 'jekyll-paginate'
+gem 'kramdown-syntax-coderay'
+gem 'jekyll-sitemap', '~> 1.4'
+gem 'jekyll-feed'
+gem "jekyll", "~> 4.4"
+gem "jekyll-sass-converter", "~> 2.2"
+gem "sassc", "~> 2.4"
